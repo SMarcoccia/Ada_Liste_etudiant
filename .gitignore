@@ -1,0 +1,11 @@
+# Extension.
+
+*.ali
+*.O
+
+
+# Dossier
+/.vscode
+
+# Makefile
+Makefile
